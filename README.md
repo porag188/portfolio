@@ -31,8 +31,8 @@ I am a passionate software developer with **4+ years** of experience in building
 - Contributed to **open-source** projects and tech communities.  
 
 ### 📫 Contact  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Email:** your.email@example.com  
+- **GitHub:** [github.com/porag188](https://github.com/porag188)  
+- **LinkedIn:** [linkedin.com/in/asaduzzaman](https://linkedin.com/in/asaduzzaman)  
+- **Email:** porag.email@example.com  
 
 🚀 Let's build something amazing together!  
