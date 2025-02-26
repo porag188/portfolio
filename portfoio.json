@@ -1,0 +1,99 @@
+{
+  "name": "Md. Asaduzzaman Sarkar",
+  "contact": {
+    "address": "Noorjahan road, Mohammadpur, Dhaka-1207",
+    "cell": "+88 01521381541",
+    "email": "porag188@gmail.com",
+    "github": "github.com/porag188"
+  },
+  "about_me": "I am a highly skilled software developer with extensive experience in designing, developing, and delivering high-quality software solutions. Known for my strong problem-solving abilities, I excel at tackling complex challenges and turning ideas into functional applications. I am a collaborative team player who thrives in dynamic environments, consistently contributing to the success of projects through effective communication and technical expertise.",
+  "expertise": [
+    "Team Leadership",
+    "Problem-Solving",
+    "Technical Proficiency",
+    "Collaborative Teamwork",
+    "Adaptability to New Technologies",
+    "Time Management and Prioritization"
+  ],
+  "employment_history": [
+    {
+      "company": "Codeware Limited",
+      "position": "Web Application Developer",
+      "start_date": "1st February 2022",
+      "end_date": "Present",
+      "responsibilities": [
+        "Troubleshooting and debugging application issues to ensure optimal performance.",
+        "Ensuring web applications are secure and follow best practices for cybersecurity.",
+        "Optimizing web applications for speed and scalability.",
+        "Integrating third-party services and APIs into applications.",
+        "Assisting in the deployment of applications to production and managing staging environments.",
+        "Writing and running automated tests to maintain application reliability.",
+        "Providing technical support and training to end-users when needed.",
+        "Implementing and managing version control workflows (e.g., Git).",
+        "Monitoring and maintaining server health, including updates, backups, and performance optimization.",
+        "Documenting application architecture and processes for future maintenance."
+      ]
+    },
+    {
+      "company": "ANALYTICSIFY",
+      "position": "Survey Design Programmer and Data Analyst",
+      "start_date": "16th May 2020",
+      "end_date": "30th January 2022",
+      "responsibilities": [
+        "Designing and implementing online surveys.",
+        "Analyzing survey data.",
+        "Cleaning and preparing survey data.",
+        "Developing and maintaining data visualization dashboards.",
+        "Collaborating with stakeholders."
+      ]
+    }
+  ],
+  "academic_qualification": {
+    "bachelor": {
+      "degree": "Bachelor of Science",
+      "group": "Computer Science & Engineering",
+      "result": 2.97,
+      "university": "National University",
+      "institution": "Mohammadpur Kendriya College",
+      "passing_year": 2019
+    },
+    "hsc": {
+      "degree": "Higher Secondary Certificate (H.S.C)",
+      "group": "Science",
+      "result": 4.10,
+      "board": "Dinajpur",
+      "passing_year": 2014
+    }
+  },
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "Pandas",
+      "Matplotlib",
+      "Scikit-learn",
+      "TensorFlow",
+      "JavaScript",
+      "jQuery"
+    ],
+    "frameworks_and_tools": [
+      "Django",
+      "Flask",
+      "Nginx",
+      "Apache Kafka",
+      "Docker",
+      "Github",
+      "Linux server"
+    ],
+    "databases": [
+      "MongoDB",
+      "PostgreSQL",
+      "SQLite",
+      "MySQL",
+      "AWS"
+    ]
+  },
+  "language_efficiency": {
+    "written": ["Bangla", "English"],
+    "verbal": ["Bangla", "English"]
+  }
+}
